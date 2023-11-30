@@ -196,6 +196,20 @@ Create a claymation style of a female software engineer with a smile on the fron
 ```
 [Link to try above as prompt template](https://designer.microsoft.com/image-creator?p=Create+a+claymation+style+of+a+%5Bfemale+software+engineer%5D+with+a+smile+on+the+front%2C+wearing+a+%5Bblack+sweater%5D%2C++%5Bgreen+%5Deyes%2C++and+%5Bdark+blonde+shoulder+length%5D+hair.+With+a+%5BUniversity+of+Michigan%5D+background+and+a+Microsoft+laptop+at+hand.+Fashion%2C+text+3D+rendering%2C+typography%2C+illustration%2C+painting%2C+photo%2C+poster%2C+3d+render.)
 
+![Alt text](image-5.png)
+
+## 💡 Extending how you use Azure OpenAI Service
+
+This workshop is just the beginning of what you can do with Azure OpenAI Service. Here are some ideas to get you started:
+
+* Use Azure OpenAI Service to generate text for your website, blog, or social media posts
+* Use Azure OpenAI Service to generate text for your chatbot, apps, or games
+* Use Microsoft Designer to generate images for your website, blog, or social media posts
+
+We used the GPT-3 model in this workshop, all based on a LLM (large language model) architecture. 
+* _How can you create your own models?_
+* _How can you use those models to generate text or images for the problem you want to solve?_
+
 ## 📚 Resources
 
 #### Get access
