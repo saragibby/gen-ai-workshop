@@ -37,7 +37,9 @@ A prompt is a piece of text that you provide to the model to give it a hint abou
 
 Prompt engineering is the process of creating prompts that will produce the desired output from the model.
 
-## Getting Started
+<hr> 
+
+## 💻 Getting Started
 
 In this workshop we will be generating content using [Azure OpenAI service](https://azure.microsoft.com/en-us/services/cognitive-services/openai-text-generation/), using the `gpt-35-turbo` model. To avoid the need for an Azure account, and access to the Azure OpenAI service, we will be using a lab environment that has been provisioned for this workshop.
 
@@ -101,8 +103,6 @@ Let's see how temperature affects the output of the model. Try the following pro
 What is a unique and long name for a cat?
 ```
 
-<hr>
-
 ## 🚧 What to look out for 
 
 ### Less-useful prompts
@@ -118,8 +118,6 @@ Let's try the below prompt to demonstrate a weaknesses:
 When did Queen Elizabeth II die?
 ``` 
 In this case, the model is limited by training data, which is current only up to September 2021.
-
-<hr>
 
 #### Completions are not facts
 
