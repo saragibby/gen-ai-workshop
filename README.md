@@ -45,7 +45,7 @@ In this workshop we will be generating content using [Azure OpenAI service](http
 
 > [**Azure OpenAI service**](https://azure.microsoft.com/en-us/services/cognitive-services/openai-text-generation/): a managed service for application use of generative AI models. It provides a simple API for generating text, and has built-in models to use. 
 
-To get started, click on the link below to open the lab environment in your browser.
+To get started, click on the buttn below to Open GenAI Playground (our workshop lab environment) in your browser.
 
 [![Open GenAI Playground](open-genai-playground.png)](https://openai-proxy-23uljr-ca.salmonsea-82a61dba.swedencentral.azurecontainerapps.io/)
 
@@ -78,9 +78,9 @@ What were the 10 top movies of 2001? Respond in the form of a table listing the 
 Write a Python function to calculate the nth prime number.
 ```
 
-### Generate novel content
+### Generate creative content
 
-Even though the outputs are generated based on frequencies of similar content in the training data, generative AI models are still capable of generating novel content that has never existed before.
+Even though the outputs are generated based on frequencies of similar content in the training data, generative AI models are still capable of generating creative content that has never existed before.
 
 Try a prompt like this:
 ```
@@ -103,6 +103,8 @@ What is a unique and long name for a cat?
 
 <hr>
 
+## 🚧 What to look out for 
+
 ### Less-useful prompts
 
 Natural language generative AI models have a number of limitations:
@@ -115,7 +117,7 @@ Let's try the below prompt to demonstrate a weaknesses:
 ```
 When did Queen Elizabeth II die?
 ``` 
-In this case, the model is limited by training data, which is current only up to June 2021.
+In this case, the model is limited by training data, which is current only up to September 2021.
 
 <hr>
 
