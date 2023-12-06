@@ -53,7 +53,7 @@ To get started, click on the buttn below to Open GenAI Playground (our workshop 
 
 ![Alt text](image-3.png)
 
-To use the lab you will need to authenticate with our Workshop API Key: **WP0MNO03VJ8P95V/UNI**
+To use the lab you will need to authenticate with our Workshop API Key: _[insert valid event code]_
 
 Once you are authenticated for in the lab environment you will see "University of Michigan" in the top right corner of the screen:
 ![Alt text](image-4.png)
